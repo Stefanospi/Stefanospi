@@ -89,7 +89,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Stefanospi/Stefanospi/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Stefanospi/Stefanospi/blob/main/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
