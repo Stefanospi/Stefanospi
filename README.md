@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Stefano Spitaleri and I'm a 23 years old Junior Developer from Bronte,Italy</h2>
+<h2 align="left">Hi 👋! My name is Stefano Spitaleri and I'm a Junior Developer from Bronte,Italy</h2>
 
 ###
 
@@ -80,20 +80,17 @@
   <a href="https://www.linkedin.com/in/stefano-spitaleri-bb32a519b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.discordapp.com/users/717098649489768559" target="_blank">
+  <a href="discordapp.com/users/717098649489768559" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://github.com/Stefanospi/Stefanospi/blob/main/output/snake.svg" alt="Snake animation" />
-
+<p align="left"></p>
 
 ###
 
-<p align="left"></p>
+<img src="https://raw.githubusercontent.com/Stefanospi/Stefanospi/output/snake.svg" alt="Snake animation" />
 
 ###
