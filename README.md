@@ -93,4 +93,4 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Stefanospi/Stefanospi/output/snake.svg" alt="Snake animation" />
 </div>
-###
+
