@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Stefano Spitaleri and I'm a Junior Developer from Bronte,Italy</h2>
+<h2 align="left">Hi 👋! My name is Stefano Spitaleri and I'm a 24 years old Junior Developer from Bronte,Italy</h2>
 
 ###
 
@@ -87,10 +87,8 @@
 
 ###
 
-<p align="left"></p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Stefanospi/Stefanospi/output/snake.svg" alt="Snake animation" />
 
 ###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Stefanospi/Stefanospi/output/snake.svg" alt="Snake animation" />
-</div>
-
