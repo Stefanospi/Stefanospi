@@ -89,6 +89,6 @@
 
 <br clear="both">
 
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21on73g2domu4fg43i7atmfvy)
+ 
 
 ###
