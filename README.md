@@ -86,9 +86,10 @@
     <p align="left">stephenmars</p>
   </a>
 </div>
-<a href="https://github.com/Stefanospi?tab=repositories">⛓️‍💥My bootcamp projects</a>
-<a href="https://github.com/Stefanospi/Progetto-Finale">⛓️‍💥Final project</a>
-
+<div align="left">
+  <a href="https://github.com/Stefanospi?tab=repositories">⛓️‍💥My bootcamp projects</a>
+  <a href="https://github.com/Stefanospi/Progetto-Finale">⛓️‍💥Final project</a>
+</div>
 
 
 <br clear="both">
