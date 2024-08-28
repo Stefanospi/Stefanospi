@@ -87,7 +87,7 @@
   </a>
 </div>
 <a href="https://github.com/Stefanospi?tab=repositories">⛓️‍💥My bootcamp projects</a>
-<a href="[https://github.com/Stefanospi?tab=repositories](https://github.com/Stefanospi/Progetto-Finale)">⛓️‍💥Final project</a>
+<a href="https://github.com/Stefanospi/Progetto-Finale">⛓️‍💥Final project</a>
 
 
 
