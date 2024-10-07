@@ -79,13 +79,12 @@
   <a href="https://www.linkedin.com/in/stefano-spitaleri-bb32a519b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</div>
-<div align="left">
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-    <p align="left">stephenmars</p>
+  <a href="sspitaleri26@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+<hr>
+
 <div align="left">
   <a href="https://github.com/Stefanospi?tab=repositories">⛓️‍💥My bootcamp projects</a>
 </div>
