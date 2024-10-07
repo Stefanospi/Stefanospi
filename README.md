@@ -71,19 +71,21 @@
 
 ###
 
-<h3 align="left">✉️ How to reach me:</h3>
+<h3 align="left"> 📧How to reach me:</h3>
 
 ###
 
-<div align="left">
   <a href="https://www.linkedin.com/in/stefano-spitaleri-bb32a519b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sspitaleri26@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+  <hr>
+  <p>
+    <strong>✉️ sspitaleri26@gmail.com</strong>
+  </p>
+
+
 <hr>
+
 
 <div align="left">
   <a href="https://github.com/Stefanospi?tab=repositories">⛓️‍💥My bootcamp projects</a>
